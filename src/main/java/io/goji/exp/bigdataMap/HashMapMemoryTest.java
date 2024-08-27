@@ -4,6 +4,8 @@ import java.util.HashMap;
 
 public class HashMapMemoryTest {
 
+
+
     public static void main(String[] args) {
         HashMap<String, String> map = new HashMap<>();
         int count = 0;
